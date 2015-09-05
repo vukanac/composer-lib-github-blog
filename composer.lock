@@ -1,0 +1,46 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "hash": "f19363a6276b471d55acd06e709a27b4",
+    "packages": [
+        {
+            "name": "vukanac/hello-world-lib",
+            "version": "0.0.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/vukanac/hello-world-lib.git",
+                "reference": "4ebb16948bbb404b2d14e2b952a71096ce202582"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/vukanac/hello-world-lib/zipball/4ebb16948bbb404b2d14e2b952a71096ce202582",
+                "reference": "4ebb16948bbb404b2d14e2b952a71096ce202582",
+                "shasum": ""
+            },
+            "type": "library",
+            "authors": [
+                {
+                    "name": "Vladimir Vukanac",
+                    "email": "vladimir@vukanac.com"
+                }
+            ],
+            "description": "Test to use lib from github in composer.",
+            "support": {
+                "source": "https://github.com/vukanac/hello-world-lib/tree/0.0.1",
+                "issues": "https://github.com/vukanac/hello-world-lib/issues"
+            },
+            "time": "2015-09-05 09:17:19"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}

@@ -1,0 +1,19 @@
+{
+    "name": "wukanac/blog",
+    "description": "Blog -  simple project to test usage of my lib fom github.",
+    "authors": [
+        {
+            "name": "Vladimir Vukanac",
+            "email": "vladimir@vukanac.com"
+        }
+    ],
+    "require": {
+        "vukanac/hello-world-lib": "0.0.1"
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/vukanac/hello-world-lib"
+        }
+    ]
+}
